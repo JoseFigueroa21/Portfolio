@@ -1,7 +1,3 @@
-DROP TABLE album;
-Drop Table artist;
-DROP DATABASE music_artist_database;
-
 CREATE DATABASE music_artist_database;
 
 USE music_artist_database;
