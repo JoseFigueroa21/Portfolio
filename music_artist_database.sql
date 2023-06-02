@@ -27,7 +27,7 @@ FOREIGN KEY (artist_id) REFERENCES artist(id)
 -- Inserting data to artist table 
 INSERT INTO artist (name, genre) 
 VALUES ('Bad Bunny', 'Latin'),
-	   ('Taylor Swift', 'Pop'),
+       ('Taylor Swift', 'Pop'),
        ('Hairy Styles', NULL),	-- Pop/Name Misspelled
        ('Drake', 'Rap'),
        ('Morgan Wallen', 'Country'),
@@ -45,7 +45,7 @@ VALUES ('Bad Bunny', 'Latin'),
 -- Inserting data to album table 
 INSERT INTO album (name, track_list, popular_song, release_year, artist_id)
 VALUES ('Oasis', NULL, 'La Cancion', 2019, 1), -- Track list is 8
-	   ('1989', 13, 'Blank Space', 2014, 2),
+       ('1989', 13, 'Blank Space', 2014, 2),
        ("Harry's House", 13, 'As it Was', 2022, 3),
        ('Views', 20, 'Hotline Bling', NULL, 4), -- Release Year is 2016 
        ('One Thing at a Time', 36, 'You Proof', 2023, 5),
@@ -107,14 +107,6 @@ WHERE id IN (13, 1, 12, 4);
 SELECT * 
 FROM artist 
 WHERE id = 13;
-
--- Retrieve all albums with their corresponding artist details
-SELECT 
-	album.*, 
-    artist.name AS artist_name
-FROM album
-JOIN artist 
-ON album.artist_id = artist.id;
  
 -- Retrieve the names of artists who genre is Pop
 SELECT artist.name, artist.genre 
