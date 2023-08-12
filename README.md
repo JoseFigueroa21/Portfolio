@@ -2,7 +2,7 @@
 
 Welcome to my Data Analytics Portfolio! I'm Jose Figueroa, a skilled data analyst / data visualization specialist, and this repository showcases some of my projects and contributions in the field of data analytics. Below, you'll find an overview of each project and a brief description of the work involved.
 
-## Project 1: FIFA Team Database From 2015-2023 (August 2023)
+## Project 1: FIFA Team Database from 2015-2023 (August 2023)
 
 In the "FIFA Team Database From 2015-2023", I employed Python's Pandas library for efficient data manipulation and utilized Matplotlib along with Seaborn for insightful visualizations. In this recent project, I demonstrated my ability to clean and process FIFA teams data, transforming it for analysis by renaming columns and ensuring consistent year values. I effectively communicated data insights through visualizations, analyzed team performance trends, evaluated league-wise dynamics, and detected attribute correlations, thereby highlighting my proficiency in data analysis and visualization techniques.
 
