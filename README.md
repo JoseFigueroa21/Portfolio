@@ -8,7 +8,7 @@ In the "FIFA Team Database From 2015-2023", I employed Python's Pandas library f
 
 ## Project 2: Data Professional Survey (June 2023)
 
-In this project, I present my background as a data analyst and data visualization specialist. I hold a B.S. in Computer Science from California State University Bakersfield and possess a diverse skill set that includes programming languages, database management, data visualization, statistical analysis, and probability. My passion for leveraging data to uncover insights and drive informed decision-making motivates me to excel in any role that requires a strong analytical foundation.
+In this project, I effectively demonstrated my skills in data analysis and visualization, placing a strong emphasis on the critical aspects of data cleaning and dashboard creation. With a meticulous attention to detail, I carefully cleaned the Data Professional Survey, ensuring utmost data accuracy and consistency. Additionally, I enhanced the project by constructing an interactive dashboard that successfully conveyed essential performance metrics. This endeavor underscored my proficiency in data manipulation, visualization techniques, and the art of crafting informative data-driven dashboards.
 
 ## Project 3: Music Artist Database (May 2023)
 
